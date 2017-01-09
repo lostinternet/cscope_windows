@@ -4,7 +4,7 @@
 
 @echo off
 set _cur_dir=%cd%
-echo %_cur_dir%
+
 
 ::you can add the file ext in this var
 set _file_list= *.h *.c *.cpp
